@@ -1,2 +1,4 @@
 # university-homework
 简单的员工管理系统
+
+运用mybatis和GUI界面通过Java自带的图库实现增删改查，爬虫运行EmployeeTest.java即可
